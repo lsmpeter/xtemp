@@ -86,11 +86,31 @@
       <path class="st4" d="M130.02,460.72v3.63h-3.35v-3.63h3.35Z"/>
     </g>
   </g>
-  <text class="st0" transform="translate(170.19 318.44)"><tspan x="0" y="0">로버트 ‘바비’ 드레이크</tspan></text>
-  <text class="st0" transform="translate(170.12 365.39)"><tspan x="0" y="0">5.10.1997/ 10:50 PM/ 자비에르 영재학교</tspan></text>
-  <text class="st0" transform="translate(170.12 412.49)"><tspan x="0" y="0">아이스크림을 먹었는데 너무 맛있음</tspan></text>
-  <text class="st0" transform="translate(170.4 462.04)"><tspan x="0" y="0">울버린: 서로 안좋아하는 관계</tspan></text>
-  <text class="st0" transform="translate(323.07 462.04)"><tspan x="0" y="0">울버린: 서로 안좋아하는 관계</tspan></text>
-  <text class="st0" transform="translate(170.4 491.53)"><tspan x="0" y="0">울버린: 서로 안좋아하는 관계</tspan></text>
-  <text class="st0" transform="translate(323.07 491.53)"><tspan x="0" y="0">울버린: 서로 안좋아하는 관계</tspan></text>
+<text class="st0" transform="translate(170.19 318.44)">
+  <tspan x="0" y="0">${name}</tspan>
+</text>
+
+<text class="st0" transform="translate(170.12 365.39)">
+  <tspan x="0" y="0">${datetime}</tspan>
+</text>
+
+<text class="st0" transform="translate(170.12 412.49)">
+  <tspan x="0" y="0">${situation}</tspan>
+</text>
+
+<text class="st0" transform="translate(170.4 462.04)">
+  <tspan x="0" y="0">${rel1}</tspan>
+</text>
+
+<text class="st0" transform="translate(323.07 462.04)">
+  <tspan x="0" y="0">${rel2}</tspan>
+</text>
+
+<text class="st0" transform="translate(170.4 491.53)">
+  <tspan x="0" y="0">${rel3}</tspan>
+</text>
+
+<text class="st0" transform="translate(323.07 491.53)">
+  <tspan x="0" y="0">${rel4}</tspan>
+</text>
 </svg>
