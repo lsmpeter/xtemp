@@ -87,30 +87,30 @@
     </g>
   </g>
 <text class="st0" transform="translate(170.19 318.44)">
-  <tspan x="0" y="0">${ne}</tspan>
+  <tspan x="0" y="0">${n}</tspan>
 </text>
 
 <text class="st0" transform="translate(170.12 365.39)">
-  <tspan x="0" y="0">${dt}</tspan>
+  <tspan x="0" y="0">${d}</tspan>
 </text>
 
 <text class="st0" transform="translate(170.12 412.49)">
-  <tspan x="0" y="0">${sin}</tspan>
+  <tspan x="0" y="0">${s}</tspan>
 </text>
 
 <text class="st0" transform="translate(170.4 462.04)">
-  <tspan x="0" y="0">${rel1}</tspan>
+  <tspan x="0" y="0">${r1}</tspan>
 </text>
 
 <text class="st0" transform="translate(323.07 462.04)">
-  <tspan x="0" y="0">${rel2}</tspan>
+  <tspan x="0" y="0">${r2}</tspan>
 </text>
 
 <text class="st0" transform="translate(170.4 491.53)">
-  <tspan x="0" y="0">${rel3}</tspan>
+  <tspan x="0" y="0">${r3}</tspan>
 </text>
 
 <text class="st0" transform="translate(323.07 491.53)">
-  <tspan x="0" y="0">${rel4}</tspan>
+  <tspan x="0" y="0">${r4}</tspan>
 </text>
 </svg>
